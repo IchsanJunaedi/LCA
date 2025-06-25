@@ -14,11 +14,6 @@ Program ini dibuat untuk mencari **Lowest Common Ancestor (LCA)** dari dua node 
 
 ## 📊 Hasil Output
 maka LCA dari 2 node p dan q / 4 , 5 adalah : 2
-    1
-  /   \
- 2     3
-/ \
-4 5
 
 ## 📌 Alasan 1 File Saja
 Karena program masih sederhana dan semua class dan fungsi saling berkaitan langsung, jadi lebih efisien diletakkan dalam satu file.
